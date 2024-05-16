@@ -1,0 +1,72 @@
+BOOK #5 INDEX
+A
+ASLR: 52 - 53
+
+C
+Control Flow Guard CFG: 57
+Control Flow Integrity CFI & Control-Flow Enforcement Tech CET: 58
+
+D
+DEP: 39
+DEP at Execution Time - Defeating DEP example: 84
+Defeating DEP: 81 - 82
+
+E
+Exploit Guard: 54
+Exploit Mitigation Comparaissions: 60
+Exploit Mitigation Controls: 36
+
+F
+Functions that Disable DEP: 100
+
+G
+Gadgets Examples: 115 - 130
+Heap Cookies: 47
+
+
+I
+IAT & EAT: 10
+Immunity Debugger: 16
+Instructions We need to Disable DEP: 86
+Isolated Heap & Deferred Free: 55
+
+L
+Linux - Unlink(): 49 - 50
+Low Fragmentation Heap LFH: 51
+
+M
+MemGC: 56
+
+O
+OllyDbg: 15
+
+P
+PE / COFF - DOS: 12
+PE / COFF - File Header & Optional Header: 13
+PE / COFF - Section Table & Lazy Linking: 14
+PE / COFF Walkthrough: 18 - 23
+PEB: 26
+PEB Randomisation: 46
+PUSHAD: 110
+
+S
+SEH: 27 - 28
+SEH Exploit: 66 - 74
+SEHOP: 44
+SafeSEH: 40 - 43
+Stack Canaries / Security Cookies: 45
+Stack Pivoting: 111 - 112
+
+T
+TEB & TIB - FS addresses: 25
+Tools for Building Gadgets: 113
+
+V
+VirtualProtect() ROP Example: 102 - 109
+
+W
+W^X: 38
+Win API: 24
+Win Kernel Hardening: 59
+Windows Core Components: 7
+WOW64: 29
