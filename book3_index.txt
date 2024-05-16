@@ -1,0 +1,88 @@
+BOOK #3 INDEX
+
+A
+AFL & Gnuplot: 159
+AFL & TCPick: 158, 160, 162
+AFL - Minimising Test cases: 161
+AFL - Recommendations: 163
+AFL - Using AFL: 156
+AFL Test cases generation: 154
+AFL Walkthrough: 157
+AFL: 152
+AFLplusplus: 153
+
+B
+BooFuzz: 132
+
+C 
+crashbin_explorer.py: 130
+Code Execution Marking: 150, 151
+Creating packet in scapy: 61, 62
+ctypes module: 51
+
+D
+Data Types: 38
+DynamoRIO - Droc: 142
+DynamoRIO: 141
+Dynapstalker: 144
+Drrun.exe: 142
+
+F
+Files I/O: 48
+Fuzzing - Field Delimiters: 90
+Fuzzing - Instrumented Fuzzing: 84
+Fuzzing - Intelligent Mutation: 85
+Fuzzing - Integer Underflow: 88
+Fuzzing - Signed & Unsigned Integers: 87
+Fuzzing - Strings: 89
+
+I
+Inspecting packets with Scapy: 63
+
+M
+Measuring Basic Blocks: 140
+
+O
+Os module: 50
+
+P
+pefile module: 52
+printf(): 37
+Python Numeric types: 33
+Python Strings: 34
+
+R
+Running Sulley: 128
+
+S
+Scapy Example - Citrix TFTP: 66
+Scapy Example - tcpping: 65
+Scapy IPV6 scanning: 72
+Scapy IPv6 Router Discovery attacks: 73, 74
+Scapy Packet Capture Interaction: 68
+Scapy: 57
+Scary packet layering: 59
+Sending packets with scapy: 64
+Str() & Byte() & UTF8: 35
+Strings Slicing: 36
+Sulley - HTTP Request - Counting Mutations: 113
+Sulley - HTTP Request - Delimiters: 107
+Sulley - HTTP Request - Displaying Mutations: 115
+Sulley - HTTP Request - Estimating Runtime: 114
+Sulley - HTTP Request - Immutable Values: 106
+Sulley - HTTP Request - Initialisation: 105
+Sulley - HTTP Request - Numbers: 109, 111
+Sulley - HTTP Request - Sessions: 118, 119, 120
+Sulley - HTTP Request - Specify Targets: 121, 122
+Sulley - HTTP Request - Strings: 108
+Sulley - Sitting Up: 102
+Sulley Agents: 123
+Sulley Drawbacks: 100
+Sulley Netton Agent: 124
+Sulley ProcMon Agent: 126
+Sulley VS BooFuzz: 133
+Sys module: 49
+
+W
+Working with Dictionary: 40
+Working with lists: 39
