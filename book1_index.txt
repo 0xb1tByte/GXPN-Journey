@@ -1,0 +1,95 @@
+BOOK #1 INDEX
+A
+arp.spoof: 114, 115
+autopwn: 123
+
+B
+Bypass HSTS: 174
+bettercap: 109
+
+C
+caplets: 118
+cdp: 81, 88, 89, 90, 91
+cpscam: 59
+cpscam.pl: 59
+
+D
+dns.spoof: 116
+dtp: 79, 80, 81, 82, 83, 84, 86, 87
+dynagen: 145
+dynamips: 145
+
+E
+eapmd5fuzzies.py: 74
+ettercap`: 99
+etterfilter: 101, 102, 103, 105
+
+H
+HSTS: 173
+hsrp: 131, 132, 133, 134
+http.proxy: 121
+http_hijack.py: 128, 129
+
+I
+Ipv4 filters, rely between ipv6 and ipv4: 163
+Ipv6 Enumeration: 155
+Ipv6 Impersonation: 157
+Ipv6 Router Advertisment MITM: 159, 160
+Ipv6 Scanning: 156
+Remote Ipv6: 161
+ifconfig: 57, 85, 153
+ipv6: 147, 148, 149, 150, 151, 152, 153
+
+L
+LOKI OSPF Enumeration: 142
+loki: 136
+
+M
+macshift: 57, 58
+mitmdump: 129
+mitmproxy: 129
+
+N
+OSPF Routing Enumeration: 141
+OSPF Routing Fail: 140
+OSPF: 139
+net.fuzz: 112
+net.probe: 111
+net.recon: 110
+net.sniff: 112
+npk: 36, 37
+
+O
+osfuscate.exe: 64
+osfuscate/profiles: 64
+osfuscate: 64
+
+P
+parasite6: 158
+p0f: 63, 66
+pfsense: 50
+pickupline: 59
+probablepasswordlist: 36
+
+S
+Sslstrip interception: 170
+Sslstrip setup: 171
+Sslstrip: 169
+scapy+sulley: 74
+spraywmi.py: 18
+spraywmi: 18
+
+T
+ticker.commands: 113
+
+U
+unicorn.py: 18
+unicorn.rc: 18
+
+V
+vconfig: 85, 86, 90
+voiphopper: 91
+vrrp: 135
+
+Y
+yersinia: 81, 82, 83, 84, 87, 134, 135, 136, 144, 176
