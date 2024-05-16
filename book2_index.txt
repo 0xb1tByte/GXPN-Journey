@@ -1,0 +1,81 @@
+BOOK #2 INDEX
+
+A
+apimoniter: 99
+Attacking powershelgl resources: 85
+
+B
+Block Ciphers: 13, 14
+
+C
+CBC Bit Flipping: 32, 33, 34
+CBC IV: 19
+CBC Mode: 18
+CTR Mode: 20
+CrackMapExec & Inveigh & Potatos: 121
+
+D
+drltrace: 98, 100
+
+E
+ECB - Demonstrate weaknesses: 17
+ECB Mode: 15, 16
+Empire: 88
+Empire Appendix: 191
+Escaping Restrictions: 72, 73, 74, 75
+Exploiting powershelgl order: 84
+
+G
+Grsecurity & PaX & SELinux & AppArmor: 93
+
+H
+Hash Length Extension Attack: 55, 56, 57, 58, 59, 60
+hash_extender: 58
+
+I
+IV Handling, Considerations: 11, 12
+Identifying the algorithm: 22
+
+K
+kiosk: 71
+
+L
+Library loading in linux: 102
+
+N
+Nishang & Kautilya: 116
+
+O
+openssl: 8
+
+P
+Padding Attack: 36, 37, 38, 39, 40, 41, 42, 43
+pcaphistogram.py: 25
+pdfsharp: 80, 81
+Persistance powershelgl: 87
+POODLE: 44, 45, 46
+Powershelgl autorun profiles paths: 86
+Powershell Appendix: 129
+Powershell.exe alternatives: 83
+Powerspliot: 115
+
+R
+Responder: 120
+
+S
+Scapy - Detect Randomness: 29, 30
+Stream Cipher IV Reuse Attack: 48, 49, 50, 51
+stream ciphers: 10
+
+T
+Tcpick - Detect Randomness: 28
+Trojan libraries on linux: 104
+
+U
+UAC: 122
+
+V
+vapp: 69
+
+W
+wdac: 67, 68, 71
