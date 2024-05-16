@@ -1,0 +1,78 @@
+BOOK #4 INDEX
+
+A
+ASLR: 135
+AT&T and Intel Syntaxes: 38, 39
+
+C
+Calling Conventions: 32
+
+D
+Defeating ASLR: 137
+Defeating Stack Protection - Canaries: 126 - 133
+
+E
+ELF: 41
+ELF Demonstration: 48, 49, 50, 51, 52
+
+F
+Finding Privilege Program in Linux: 94
+
+G
+GDB: 33
+GDB Commands: 34, 35
+General Purpose Registers: 10, 11, 12, 13, 14
+Global Offset Table: 43
+Gadgets Tools: 119
+
+J
+Jump-Oriented Programming JOP: 114
+
+L
+LDD: 145
+Linkers & Loaders: 40
+Linux - Creating Shellcode: 63, 64, 65
+Linux - Creating Shellcode - NASM & XXD: 67
+Linux - Removing Null Bytes: 68, 69, 70
+Linux - System Calls: 61
+Linux - System Calls Numbers: 62
+Linux - Testing Shellcode: 71, 72
+Locating GetProcAddress(): 83
+Locating kernel32.dll: 81, 82
+
+N
+NASM: 66
+
+O
+Objdump: 45, 46
+Object Files - Segments: 20, 21
+
+P
+PEDA: 95 - 99
+Paging: 18-19
+Position Independent Executable (PIE): 103, 104
+Procedure Linkage Table (PLT): 43
+Process Registers: 8, 9
+
+R
+ROP Gadgets: 110, 111, 112, 113
+Return Oriented Shellcode: 115, 116, 117, 118
+Return-to-libc Techniques: 106
+Return-to-libc: 105, 106, 107
+readElf: 47
+
+S
+Segment Registers: 15
+Stack Operations: 22-31
+Stack Smashing Protector / ProPolice: 124
+Stripped Programs: 103, 104
+
+T
+Translation look side Buffers (TLBs): 7
+Types of Canaries: 125
+
+V
+Virtual & Physical Memory & Linear Addressing: 17
+
+W
+Windows - Accessing Kernel Resources: 80
